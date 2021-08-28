@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DLL Injector/1.0.0": {
+        "runtime": {
+          "DLL Injector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL Injector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

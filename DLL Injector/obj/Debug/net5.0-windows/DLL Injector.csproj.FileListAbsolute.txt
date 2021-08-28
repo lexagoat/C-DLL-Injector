@@ -1,0 +1,18 @@
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\DLL Injector.exe
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\DLL Injector.deps.json
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\DLL Injector.runtimeconfig.json
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\DLL Injector.runtimeconfig.dev.json
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\DLL Injector.dll
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\ref\DLL Injector.dll
+L:\C#\DLL Injector\DLL Injector\DLL Injector\bin\Debug\net5.0-windows\DLL Injector.pdb
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.csproj.AssemblyReference.cache
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL_Injector.Form1.resources
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.csproj.GenerateResource.cache
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.AssemblyInfoInputs.cache
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.AssemblyInfo.cs
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.csproj.CoreCompileInputs.cache
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.dll
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\ref\DLL Injector.dll
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.pdb
+L:\C#\DLL Injector\DLL Injector\DLL Injector\obj\Debug\net5.0-windows\DLL Injector.genruntimeconfig.cache
